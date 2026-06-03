@@ -28,4 +28,24 @@ Galería:
 Colección de imágenes relacionadas con el cambio climático, la contaminación, las energías renovables y la conservación del medio ambiente.
 
 Datos Curiosos:
-Estadísticas, cifras
+Estadísticas, cifras e información interesante relacionada con el clima y el medio ambiente.
+
+Foro:
+Espacio donde los usuarios registrados podrán compartir opiniones, debatir ideas y publicar propuestas para ayudar al planeta.
+
+Contacto:
+Formulario para que los visitantes puedan enviar consultas, comentarios o sugerencias.
+
+# Sistema de Usuarios
+- Registro e inicio de sesión.
+- Acceso al foro únicamente para usuarios autenticados.
+- Gestión básica de perfiles.
+
+# Tecnologias
+- Python
+- Flask
+- HTML
+- CSS
+
+# Resultado esperadao
+Desarrollar una plataforma web moderna, educativa e interactiva que ayude a sensibilizar a los usuarios sobre el cambio climático y promueva acciones responsables para el cuidado del medio ambiente.
